@@ -1,0 +1,7 @@
+C:\OOP\Projects\lmsV1\lmsV1\bin\Debug\lmsV1.exe.config
+C:\OOP\Projects\lmsV1\lmsV1\bin\Debug\lmsV1.exe
+C:\OOP\Projects\lmsV1\lmsV1\bin\Debug\lmsV1.pdb
+C:\OOP\Projects\lmsV1\lmsV1\obj\Debug\lmsV1.csproj.AssemblyReference.cache
+C:\OOP\Projects\lmsV1\lmsV1\obj\Debug\lmsV1.csproj.CoreCompileInputs.cache
+C:\OOP\Projects\lmsV1\lmsV1\obj\Debug\lmsV1.exe
+C:\OOP\Projects\lmsV1\lmsV1\obj\Debug\lmsV1.pdb
