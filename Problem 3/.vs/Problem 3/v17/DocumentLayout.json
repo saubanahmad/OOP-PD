@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OOP\\PD\\PD4\\Problem 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{067315C2-D266-4F22-822B-610F19E4A303}|Problem 3\\Problem 3.csproj|c:\\oop\\pd\\pd4\\problem 3\\problem 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067315C2-D266-4F22-822B-610F19E4A303}|Problem 3\\Problem 3.csproj|solutionrelative:problem 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067315C2-D266-4F22-822B-610F19E4A303}|Problem 3\\Problem 3.csproj|c:\\oop\\pd\\pd4\\problem 3\\problem 3\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067315C2-D266-4F22-822B-610F19E4A303}|Problem 3\\Problem 3.csproj|solutionrelative:problem 3\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067315C2-D266-4F22-822B-610F19E4A303}|Problem 3\\Problem 3.csproj|c:\\oop\\pd\\pd4\\problem 3\\problem 3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067315C2-D266-4F22-822B-610F19E4A303}|Problem 3\\Problem 3.csproj|solutionrelative:problem 3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\OOP\\PD\\PD4\\Problem 3\\Problem 3\\Player.cs",
+              "RelativeDocumentMoniker": "Problem 3\\Player.cs",
+              "ToolTip": "C:\\OOP\\PD\\PD4\\Problem 3\\Problem 3\\Player.cs",
+              "RelativeToolTip": "Problem 3\\Player.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:13:44.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "C:\\OOP\\PD\\PD4\\Problem 3\\Problem 3\\Stats.cs",
+              "RelativeDocumentMoniker": "Problem 3\\Stats.cs",
+              "ToolTip": "C:\\OOP\\PD\\PD4\\Problem 3\\Problem 3\\Stats.cs",
+              "RelativeToolTip": "Problem 3\\Stats.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:12:41.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\OOP\\PD\\PD4\\Problem 3\\Problem 3\\Program.cs",
+              "RelativeDocumentMoniker": "Problem 3\\Program.cs",
+              "ToolTip": "C:\\OOP\\PD\\PD4\\Problem 3\\Problem 3\\Program.cs",
+              "RelativeToolTip": "Problem 3\\Program.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAowMEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:01:38.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
